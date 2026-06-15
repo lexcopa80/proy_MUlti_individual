@@ -1,0 +1,9 @@
+c:\users\lex\documents\visual studio 2012\Projects\reconocer mas\reconocer mas\bin\Debug\reconocer mas.exe.config
+c:\users\lex\documents\visual studio 2012\Projects\reconocer mas\reconocer mas\bin\Debug\reconocer mas.exe
+c:\users\lex\documents\visual studio 2012\Projects\reconocer mas\reconocer mas\bin\Debug\reconocer mas.pdb
+c:\users\lex\documents\visual studio 2012\Projects\reconocer mas\reconocer mas\obj\Debug\reconocer mas.csprojResolveAssemblyReference.cache
+c:\users\lex\documents\visual studio 2012\Projects\reconocer mas\reconocer mas\obj\Debug\reconocer_mas.Form1.resources
+c:\users\lex\documents\visual studio 2012\Projects\reconocer mas\reconocer mas\obj\Debug\reconocer_mas.Properties.Resources.resources
+c:\users\lex\documents\visual studio 2012\Projects\reconocer mas\reconocer mas\obj\Debug\reconocer mas.csproj.GenerateResource.Cache
+c:\users\lex\documents\visual studio 2012\Projects\reconocer mas\reconocer mas\obj\Debug\reconocer mas.exe
+c:\users\lex\documents\visual studio 2012\Projects\reconocer mas\reconocer mas\obj\Debug\reconocer mas.pdb

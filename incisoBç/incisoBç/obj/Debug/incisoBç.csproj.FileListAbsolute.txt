@@ -1,0 +1,18 @@
+c:\users\usuario\documents\visual studio 2012\Projects\incisoBç\incisoBç\bin\Debug\incisoBç.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\incisoBç\incisoBç\bin\Debug\incisoBç.exe
+c:\users\usuario\documents\visual studio 2012\Projects\incisoBç\incisoBç\bin\Debug\incisoBç.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\incisoBç\incisoBç\obj\Debug\incisoBç.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\incisoBç\incisoBç\obj\Debug\incisoBç.Form1.resources
+c:\users\usuario\documents\visual studio 2012\Projects\incisoBç\incisoBç\obj\Debug\incisoBç.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\incisoBç\incisoBç\obj\Debug\incisoBç.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\incisoBç\incisoBç\obj\Debug\incisoBç.exe
+c:\users\usuario\documents\visual studio 2012\Projects\incisoBç\incisoBç\obj\Debug\incisoBç.pdb
+C:\Users\Public\Documents\incisoBç\incisoBç\incisoBç\bin\Debug\incisoBç.exe.config
+C:\Users\Public\Documents\incisoBç\incisoBç\incisoBç\obj\Debug\incisoBç.exe
+C:\Users\Public\Documents\incisoBç\incisoBç\incisoBç\obj\Debug\incisoBç.pdb
+C:\Users\Public\Documents\incisoBç\incisoBç\incisoBç\bin\Debug\incisoBç.exe
+C:\Users\Public\Documents\incisoBç\incisoBç\incisoBç\bin\Debug\incisoBç.pdb
+C:\Users\Public\Documents\incisoBç\incisoBç\incisoBç\obj\Debug\incisoBç.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\incisoBç\incisoBç\incisoBç\obj\Debug\incisoBç.Form1.resources
+C:\Users\Public\Documents\incisoBç\incisoBç\incisoBç\obj\Debug\incisoBç.Properties.Resources.resources
+C:\Users\Public\Documents\incisoBç\incisoBç\incisoBç\obj\Debug\incisoBç.csproj.GenerateResource.Cache
